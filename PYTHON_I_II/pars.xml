@@ -1,0 +1,10 @@
+<samochody>
+	<auto>
+		<nazwa foo="a">Opel</nazwa>
+		<kolor> czarny</kolor>
+	</auto>
+	<auto>
+		<nazwa foo="b">Toyota</nazwa>
+		<kolor>niebieski</kolor>
+	</auto>
+</samochody>
